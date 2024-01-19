@@ -35,3 +35,5 @@ User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
 Sitemap: https://tutorialesdemaquillaje.vercel.app/sitemap.xml
+Sitemap: https://tutorialesdemaquillaje.netlify.app/sitemap.xml
+
